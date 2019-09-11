@@ -19,12 +19,7 @@ const config = {
     scopes: ["https://www.googleapis.com/auth/presentations", "https://www.googleapis.com/auth/drive"],
     discoverDocs: ["https://slides.googleapis.com/$discovery/rest?version=v1", "https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"]
 
-    // apiKey: "AIzaSyAn5TRP_AyYPizRrclZUiKKdB8h07bJKvw",
-    // authDomain: "shadow-doctor-cases-react.firebaseapp.com",
-    // databaseURL: "https://shadow-doctor-cases-react.firebaseio.com",
-    // projectId: "shadow-doctor-cases-react",
-    // storageBucket: "shadow-doctor-cases-react.appspot.com",
-    // messagingSenderId: "93697833045"
+  
 };
 firebase.initializeApp(config);
 
