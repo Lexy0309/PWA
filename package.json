@@ -1,0 +1,65 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "0.0.2",
+    "@material-ui/core": "^3.7.1",
+    "@material-ui/icons": "^3.0.1",
+    "assert": "^1.4.1",
+    "blueimp-load-image": "^2.20.1",
+    "date-fns": "^2.0.0-alpha.26",
+    "email-validator": "^2.0.4",
+    "firebase": "^5.7.2",
+    "googleapis": "^27.0.0",
+    "material-ui-color-picker": "^3.0.0",
+    "material-ui-pickers": "^2.0.5",
+    "md2gslides": "^0.4.0",
+    "notistack": "^0.4.1",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-firebaseui": "^3.1.2",
+    "react-google-auth": "^0.4.1",
+    "react-loadable": "^5.5.0",
+    "react-oauth2": "^1.1.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.5",
+    "react-swipeable-views": "^0.13.0",
+    "react-text-mask": "^5.4.3",
+    "react-useragent": "^1.1.2",
+    "video-react": "^0.13.1"
+  },
+  "scripts": {
+    "start": "set PORT=3000 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "extend": "^3.0.2",
+    "inline-styles-parse": "^1.2.0",
+    "layout": "^2.2.0",
+    "lowlight": "^1.11.0",
+    "markdown-it": "^8.4.2",
+    "markdown-it-attrs": "^2.3.2",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-expand-tabs": "^1.0.13",
+    "markdown-it-lazy-headers": "^0.1.3",
+    "markdown-it-video": "^0.6.3",
+    "native-css": "^2.0.0",
+    "parse-color": "^1.0.0",
+    "parse5": "^5.1.0",
+    "probe-image-size": "^4.0.0",
+    "promise-retry": "^1.1.1",
+    "uuid": "^3.3.2"
+  }
+}
