@@ -11,7 +11,7 @@
     "date-fns": "^2.0.0-alpha.26",
     "email-validator": "^2.0.4",
     "firebase": "^5.7.2",
-    "googleapis": "^27.0.0",
+    "googleapis": "^39.1.0",
     "material-ui-color-picker": "^3.0.0",
     "material-ui-pickers": "^2.0.5",
     "md2gslides": "^0.4.0",
